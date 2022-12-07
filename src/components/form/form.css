@@ -1,0 +1,19 @@
+fieldset {
+    margin: 0 45%;
+}
+
+label {
+    flex: auto;
+    justify-content: left;
+    align-items: left;
+}
+
+input {
+    padding-right: 2rem;
+}
+
+#errorMessage {
+    font-size: small;
+    color: red;
+    margin: 0 0 10px 0;
+}

@@ -1,0 +1,12 @@
+#error {
+    margin: 0 0 0 0;
+    color: red;
+}
+
+input {
+    margin: 0 0 0 0;
+}
+
+label {
+    padding-right: 0.5rem;
+}
